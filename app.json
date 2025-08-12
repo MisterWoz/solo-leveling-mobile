@@ -16,8 +16,8 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.wasik.solo_leveling"
       "adaptiveIcon": {
-        "package": "com.wasik.solo_leveling"
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
