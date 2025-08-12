@@ -17,6 +17,7 @@
     },
     "android": {
       "adaptiveIcon": {
+        "package": "com.wasik.solo_leveling"
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
